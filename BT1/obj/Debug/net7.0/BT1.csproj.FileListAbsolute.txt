@@ -1,0 +1,30 @@
+D:\FreeLancer\C#\BKT1\BT1\bin\Debug\net7.0\BT1.exe
+D:\FreeLancer\C#\BKT1\BT1\bin\Debug\net7.0\BT1.deps.json
+D:\FreeLancer\C#\BKT1\BT1\bin\Debug\net7.0\BT1.runtimeconfig.json
+D:\FreeLancer\C#\BKT1\BT1\bin\Debug\net7.0\BT1.dll
+D:\FreeLancer\C#\BKT1\BT1\bin\Debug\net7.0\BT1.pdb
+D:\FreeLancer\C#\BKT1\BT1\obj\Debug\net7.0\BT1.csproj.AssemblyReference.cache
+D:\FreeLancer\C#\BKT1\BT1\obj\Debug\net7.0\BT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FreeLancer\C#\BKT1\BT1\obj\Debug\net7.0\BT1.AssemblyInfoInputs.cache
+D:\FreeLancer\C#\BKT1\BT1\obj\Debug\net7.0\BT1.AssemblyInfo.cs
+D:\FreeLancer\C#\BKT1\BT1\obj\Debug\net7.0\BT1.csproj.CoreCompileInputs.cache
+D:\FreeLancer\C#\BKT1\BT1\obj\Debug\net7.0\BT1.dll
+D:\FreeLancer\C#\BKT1\BT1\obj\Debug\net7.0\refint\BT1.dll
+D:\FreeLancer\C#\BKT1\BT1\obj\Debug\net7.0\BT1.pdb
+D:\FreeLancer\C#\BKT1\BT1\obj\Debug\net7.0\BT1.genruntimeconfig.cache
+D:\FreeLancer\C#\BKT1\BT1\obj\Debug\net7.0\ref\BT1.dll
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\bin\Debug\net7.0\BT1.exe
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\bin\Debug\net7.0\BT1.deps.json
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\bin\Debug\net7.0\BT1.runtimeconfig.json
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\bin\Debug\net7.0\BT1.dll
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\bin\Debug\net7.0\BT1.pdb
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\obj\Debug\net7.0\BT1.csproj.AssemblyReference.cache
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\obj\Debug\net7.0\BT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\obj\Debug\net7.0\BT1.AssemblyInfoInputs.cache
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\obj\Debug\net7.0\BT1.AssemblyInfo.cs
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\obj\Debug\net7.0\BT1.csproj.CoreCompileInputs.cache
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\obj\Debug\net7.0\BT1.dll
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\obj\Debug\net7.0\refint\BT1.dll
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\obj\Debug\net7.0\BT1.pdb
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\obj\Debug\net7.0\BT1.genruntimeconfig.cache
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT1\obj\Debug\net7.0\ref\BT1.dll

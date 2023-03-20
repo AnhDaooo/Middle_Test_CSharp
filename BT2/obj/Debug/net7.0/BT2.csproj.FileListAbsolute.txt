@@ -1,0 +1,45 @@
+D:\FreeLancer\C#\BKT1\BT2\bin\Debug\net7.0\BT2.exe
+D:\FreeLancer\C#\BKT1\BT2\bin\Debug\net7.0\BT2.deps.json
+D:\FreeLancer\C#\BKT1\BT2\bin\Debug\net7.0\BT2.runtimeconfig.json
+D:\FreeLancer\C#\BKT1\BT2\bin\Debug\net7.0\BT2.dll
+D:\FreeLancer\C#\BKT1\BT2\bin\Debug\net7.0\BT2.pdb
+D:\FreeLancer\C#\BKT1\BT2\obj\Debug\net7.0\BT2.csproj.AssemblyReference.cache
+D:\FreeLancer\C#\BKT1\BT2\obj\Debug\net7.0\BT2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FreeLancer\C#\BKT1\BT2\obj\Debug\net7.0\BT2.AssemblyInfoInputs.cache
+D:\FreeLancer\C#\BKT1\BT2\obj\Debug\net7.0\BT2.AssemblyInfo.cs
+D:\FreeLancer\C#\BKT1\BT2\obj\Debug\net7.0\BT2.csproj.CoreCompileInputs.cache
+D:\FreeLancer\C#\BKT1\BT2\obj\Debug\net7.0\BT2.dll
+D:\FreeLancer\C#\BKT1\BT2\obj\Debug\net7.0\refint\BT2.dll
+D:\FreeLancer\C#\BKT1\BT2\obj\Debug\net7.0\BT2.pdb
+D:\FreeLancer\C#\BKT1\BT2\obj\Debug\net7.0\BT2.genruntimeconfig.cache
+D:\FreeLancer\C#\BKT1\BT2\obj\Debug\net7.0\ref\BT2.dll
+C:\Users\anhda\Downloads\BKTCSharp\BT2\bin\Debug\net7.0\BT2.exe
+C:\Users\anhda\Downloads\BKTCSharp\BT2\bin\Debug\net7.0\BT2.deps.json
+C:\Users\anhda\Downloads\BKTCSharp\BT2\bin\Debug\net7.0\BT2.runtimeconfig.json
+C:\Users\anhda\Downloads\BKTCSharp\BT2\bin\Debug\net7.0\BT2.dll
+C:\Users\anhda\Downloads\BKTCSharp\BT2\bin\Debug\net7.0\BT2.pdb
+C:\Users\anhda\Downloads\BKTCSharp\BT2\obj\Debug\net7.0\BT2.csproj.AssemblyReference.cache
+C:\Users\anhda\Downloads\BKTCSharp\BT2\obj\Debug\net7.0\BT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhda\Downloads\BKTCSharp\BT2\obj\Debug\net7.0\BT2.AssemblyInfoInputs.cache
+C:\Users\anhda\Downloads\BKTCSharp\BT2\obj\Debug\net7.0\BT2.AssemblyInfo.cs
+C:\Users\anhda\Downloads\BKTCSharp\BT2\obj\Debug\net7.0\BT2.csproj.CoreCompileInputs.cache
+C:\Users\anhda\Downloads\BKTCSharp\BT2\obj\Debug\net7.0\BT2.dll
+C:\Users\anhda\Downloads\BKTCSharp\BT2\obj\Debug\net7.0\refint\BT2.dll
+C:\Users\anhda\Downloads\BKTCSharp\BT2\obj\Debug\net7.0\BT2.pdb
+C:\Users\anhda\Downloads\BKTCSharp\BT2\obj\Debug\net7.0\BT2.genruntimeconfig.cache
+C:\Users\anhda\Downloads\BKTCSharp\BT2\obj\Debug\net7.0\ref\BT2.dll
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\bin\Debug\net7.0\BT2.exe
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\bin\Debug\net7.0\BT2.deps.json
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\bin\Debug\net7.0\BT2.runtimeconfig.json
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\bin\Debug\net7.0\BT2.dll
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\bin\Debug\net7.0\BT2.pdb
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\obj\Debug\net7.0\BT2.csproj.AssemblyReference.cache
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\obj\Debug\net7.0\BT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\obj\Debug\net7.0\BT2.AssemblyInfoInputs.cache
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\obj\Debug\net7.0\BT2.AssemblyInfo.cs
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\obj\Debug\net7.0\BT2.csproj.CoreCompileInputs.cache
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\obj\Debug\net7.0\BT2.dll
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\obj\Debug\net7.0\refint\BT2.dll
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\obj\Debug\net7.0\BT2.pdb
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\obj\Debug\net7.0\BT2.genruntimeconfig.cache
+C:\Users\anhda\Downloads\Tai lieu mon hoc (file code)\C#\BKT\BT2\obj\Debug\net7.0\ref\BT2.dll
